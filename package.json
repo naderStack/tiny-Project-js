@@ -1,0 +1,14 @@
+{
+  "name": "node_taker_cli",
+  "version": "1.0.0",
+  "description": "CLI note-taking app built with Node.js and SQLite, managed via terminal commands with full Git integration.",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "add": "node src/index.js add",
+    "list": "node src/index.js list",
+    "delete": "node src/index.js delete"
+  }
+}
