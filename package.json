@@ -1,5 +1,5 @@
 {
-  "name": "node_taker_cli",
+  "name": "notes_taker_cli",
   "version": "1.0.0",
   "description": "CLI note-taking app built with Node.js and SQLite, managed via terminal commands with full Git integration.",
   "license": "ISC",
